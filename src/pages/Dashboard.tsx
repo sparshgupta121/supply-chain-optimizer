@@ -4,7 +4,6 @@ import SupplyChainVisualization from '../components/visualization/SupplyChainVis
 import PerformanceMetricsCard from '../components/dashboard/PerformanceMetricsCard';
 import RecommendationList from '../components/dashboard/RecommendationList';
 import StatusSummary from '../components/dashboard/StatusSummary';
-import ActionPanel from '../components/dashboard/ActionPanel';
 import { ChevronRight, RefreshCw } from 'lucide-react';
 
 const Dashboard: React.FC = () => {

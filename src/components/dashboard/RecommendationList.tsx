@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckCircle, AlertTriangle, Lightbulb, TrendingUp, TrendingDown, Clock } from 'lucide-react';
+import { CheckCircle, Lightbulb, TrendingUp, TrendingDown, Clock } from 'lucide-react';
 import { Recommendation } from '../../stores/supplyChainStore';
 import { useSupplyChainStore } from '../../stores/supplyChainStore';
 
